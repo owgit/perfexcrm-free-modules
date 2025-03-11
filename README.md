@@ -20,6 +20,7 @@ See all the content [here](src). Didn't find the section you were looking for? T
 
 Name | Author | Free
 ---- | ------ | --------
+[Perfex CRM Customer Merge Module](https://github.com/owgit/perfex-customer-merge)| Owgit | y
 [Customer Cluster Map For Perfex CRM](https://github.com/Granulr/perfex_customer_map_cluster) | Granulr | y
 [knowledge Base Per Customer](https://xamarinhelp.com/xamarin-forms-architectural-guidance/) | pofa2007 | y
 [Kaban Tickets](https://github.com/dbastreghi83/perfexcrm-kabantickets) | dbastreghi83 | y
